@@ -2,13 +2,13 @@
   "name": "vista_programas_contacto_corporativo",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://ashmichi1.github.io/vista_programas_contacto_corporativo",
+  "homepage": "https://ashmichi1.github.io/contacto",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "main -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
