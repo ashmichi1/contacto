@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/vista_programas_contacto_corporativo/',
+  base: '/contacto/',
   build: {
     outDir: 'dist',
   },
